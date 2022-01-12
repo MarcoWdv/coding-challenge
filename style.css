@@ -1,0 +1,86 @@
+body { background-image: url("sfondo.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+
+.all {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 900px;
+  padding: 50px;
+  margin: auto;
+  border-radius: 15px;
+}
+
+
+
+.container {
+  width: 700px;
+  margin: auto;
+
+}
+
+
+.logo {
+  width: 150px;
+  margin: auto;
+
+}
+
+.titolo1,h1 {
+  text-align: center;
+  color: #32CD32;
+  display: block;
+
+
+}
+
+.button {
+text-align: center;
+background-color: #32CD32;
+padding: 10px;
+
+}
+
+.selection.h2{
+padding-top: 20px;
+display: inline-block;
+
+
+}
+
+
+hr {
+  width: 300px;
+  height: 20px;
+  background: #32CD32;
+  margin-left: 1px;
+  border-radius: 10px;
+}
+
+
+#second {
+  width: 100px;
+  background-color: orange;
+}
+
+#third {
+  width: 70px;
+  background-color: #DC143C;
+}
+
+div > h2{
+  display: inline-block;
+  color: white;
+}
+
+span {
+  display: block;
+}
+
+footer {
+text-align: center;
+}
